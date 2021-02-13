@@ -1,2 +1,2 @@
 # VirtualAssistant
-A basic TTS-based virtual assistant project.
+A fun little TTS-based virtual assistant project.
